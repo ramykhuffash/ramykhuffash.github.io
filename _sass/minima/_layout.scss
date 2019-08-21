@@ -9,6 +9,14 @@
   position: relative;
 }
 
+a{
+    text-decoration: none;
+    &:hover, &:focus, &:active{
+        text-decoration: none;
+        color: lighten($brand-color, 10%);
+    }
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -25,6 +33,17 @@
 
 .site-nav {
   line-height: $base-line-height * $base-font-size * 1.25;
+  li{
+      a{
+          color: #666;
+          font-size: 14px;
+          &.brand-logo{
+              font-weight: 600;
+              color: #333;
+              font-size: 16px;
+          }
+      }
+  }
 }
 
 
@@ -103,7 +122,7 @@
  * Page content
  */
 .page-content {
-  padding: 1rem 0;
+  padding: 2rem 0;
   flex: 1;
 }
 
@@ -200,5 +219,30 @@
     margin: 0;
     li{
         margin-bottom: 0.5rem;
+    }
+}
+
+.product-thumb{
+    position: relative;
+    overflow: hidden;
+    a{
+        span{
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            z-index: 1;
+        }
+    }
+    p{
+        font-size: 14px;
+        opacity: 0.6;
+        margin-bottom: 0;
+    }
+    padding: 1rem;
+    border-radius: 4px;
+    &:hover, &:focus{
+        background:rgba(0,0,0,0.03);
     }
 }
