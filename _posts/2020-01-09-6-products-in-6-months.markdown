@@ -9,7 +9,7 @@ People tasking themselves with building one startup per month for 6 to 12 months
 ## Why?
 <a href="https://pageflows.com/" target="_blank">Page Flows</a>, my main source of income, is going well enough, but only requires a day or two a week of attention. I've been spending the rest of my time searching for my next opportunity.
 
-During that search, I've made the mistake of spending way too much time building products before getting them in front of users and learning whether or not they have legs. Limiting myself to one month per product would ensure I avoid doing that again.
+During that search, I've made the mistake of spending way too much time building products before getting them in front of users and learning whether or not they have legs. Limiting myself to one month per product would ensure I never do that again.
 
 I've also spent too much time over-analysing every decision. Here's what that looks like:
 
@@ -24,7 +24,7 @@ I've also spent too much time over-analysing every decision. Here's what that lo
 While I've correctly invalidated product ideas during this process, I've spent a whole lot of time making no progress. By sticking with the tight schedule of one month per product, I have no time for analysis paralysis.
 
 ## What kind of ideas will I be working on?
-To maximise my chances of success, I've created a set of criteria I'll filter all my ideas though
+To maximise my chances of success, I've created a set of criteria to filter ideas though
 
 - An obvious one, but it has to be possible to build the key parts of the product within 2-3 weeks
 - The product, however unpolished, has to deliver value from day one
@@ -32,7 +32,7 @@ To maximise my chances of success, I've created a set of criteria I'll filter al
 - The related keywords can't be super competitive
 - An individual person should be able to use the product without having to get teammates or bosses onboard
 
-These are based on the type of business I'm trying to build, so probably wouldn't be applicable for anyone else.
+These are based on the type of business I'm trying to build, so may not be relevant for you.
 
 My hope is that in six months, I will have:
 - launched six products
@@ -40,6 +40,6 @@ My hope is that in six months, I will have:
 - learned about problem spaces I currently know nothing about
 - found my way out of the creative rut I'm currently in
 
-Ideally, I'll also have the conviction to spend more time on at least one of the six products. I'll be shipping the first product by the end of January 2020.
+Ideally, I'll also have the conviction to spend more time on at least one product. I'll be shipping the first product by the end of January 2020.
 
-If you want a behind-the-scenes view of my process, you should <a href="https://twitter.com/ramykhuffash" target="_blank">follow me on Twitter</a> or subscribe to my newsletter.
+If you want a behind-the-scenes view of my process, you should <a href="https://twitter.com/ramykhuffash" target="_blank">follow me on Twitter</a> or <a href="https://letterfuel.com/ramy-khuffash/" target="_blank">subscribe to my newsletter.</a>
