@@ -248,12 +248,16 @@ a{
 }
 
 .tag{
-    padding: .2rem .3rem;
+    padding: .1rem .3rem;
     color: white;
     background: #666;
     border-radius: 4px;
-    font-size: 12px;
+    font-size: 10px;
     margin-left: .5rem;
+    vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    font-weight: 600;
     &.tag-active{
         background: #339933;
     }
