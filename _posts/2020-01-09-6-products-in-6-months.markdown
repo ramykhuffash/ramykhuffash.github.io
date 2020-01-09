@@ -4,16 +4,16 @@ title:  "I'm launching 6 products in 6 months"
 date:   2020-01-09 10:05:13 +0100
 ---
 
-People tasking themselves with building a startup per month for <a href="https://blog.wearecontrast.com/introducing-sixbysix-217d608362" target="_blank">either 6</a> or <a href="https://levels.io/12-startups-12-months/" target="_blank">12 months</a> is <a href="https://blog.yongfook.com/12-startups-in-12-months.html" target="_blank">no longer</a> the <a href="https://blog.cjtrowbridge.com/category/blog/projects/the-levels-challenge-build-12-startups-in-12-months/" target="_blank">wild idea</a> it <a href="https://medium.com/@swlkr/im-shipping-12-startups-in-12-months-f70266a50cef" target="_blank">once was</a>, but I've decided to throw my hat in the ring anyway.
+People tasking themselves with building one startup per month for 6 to 12 months is no longer the wild idea it once was (e.g. <a href="https://levels.io/12-startups-12-months/" target="_blank">1</a>, <a href="https://blog.yongfook.com/12-startups-in-12-months.html" target="_blank">2</a>, <a href="https://medium.com/@swlkr/im-shipping-12-startups-in-12-months-f70266a50cef" target="_blank">3</a>, <a href="https://blog.cjtrowbridge.com/category/blog/projects/the-levels-challenge-build-12-startups-in-12-months/" target="_blank">4</a>, <a href="https://blog.wearecontrast.com/introducing-sixbysix-217d608362" target="_blank">5</a>), but I'm throwing my hat in the ring anyway.
 
 ## Why?
 <a href="https://pageflows.com/" target="_blank">Page Flows</a>, my main source of income, is going well enough, but only requires a day or two a week of attention. I've been spending the rest of my time searching for my next opportunity.
 
 During that search, I've made the mistake of spending way too much time building products before getting them in front of users and learning whether or not they have legs. Limiting myself to one month per product would ensure I avoid doing that again.
 
-I've also spent so much time over analysing every decision I make, which is totally new for me. Here's how the process has been going:
+I've also spent too much time over-analysing every decision. Here's what that looks like:
 
- - Come up with an idea, or a strategy of discovering pain points and opportunities
+ - Come up with an idea or a strategy for discovering pain points and opportunities
  - Read a whole bunch of related articles online
  - Find faults in my plan
  - Keep researching
