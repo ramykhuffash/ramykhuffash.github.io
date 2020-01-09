@@ -246,3 +246,18 @@ a{
         background:rgba(0,0,0,0.03);
     }
 }
+
+.tag{
+    padding: .2rem .3rem;
+    color: white;
+    background: #666;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-left: .5rem;
+    &.tag-active{
+        background: #339933;
+    }
+    &.tag-backburner{
+        background: #ff9933;
+    }
+}
