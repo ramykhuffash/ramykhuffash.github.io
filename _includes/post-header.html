@@ -1,0 +1,20 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+
+    {%- if page_paths -%}
+      <nav class="site-nav">
+        <ul class="list-inline">
+            <li style="margin-right: 0; margin-left: -.5rem;"><a href="/"><img src="/assets/images/rj.jpg" width="30" height="30" style="vertical-align: middle; display: inline-block;" /></a></li>
+            <li><a href="/" class="brand-logo">Rocket Gems</a></li>
+            <li><a href="/blog/">Blog</a></li>
+        </ul>
+      </nav>
+    {%- endif -%}
+    <div class="blog-intro speech-bubble">
+        <p>Hey there! I'm <a href="https://twitter.com/ramykhuffash" target="_blank"><img src="/assets/images/ramy.jpg" width="40" height="40" style="border-radius: 100%;" /> Ramy.</a> I've been a full-time indie hacker since 2018 and this is where I share my progress and learnings.</p>
+    </div>
+  </div>
+</header>

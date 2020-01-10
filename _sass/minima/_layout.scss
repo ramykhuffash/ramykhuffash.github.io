@@ -265,3 +265,32 @@ a{
         background: #ff9933;
     }
 }
+
+.speech-bubble {
+	position: relative;
+	background: #333;
+	border-radius: 4px;
+    border: 1px solid;
+    padding: .5rem;
+    p{
+        color: white;
+        img{
+            border-radius: 1px solid white;
+        }
+        margin-bottom: 0;
+    }
+}
+
+.speech-bubble:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 10%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-bottom-color: #333;
+	border-top: 0;
+	margin-left: -10px;
+	margin-top: -10px;
+}
