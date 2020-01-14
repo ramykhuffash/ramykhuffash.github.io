@@ -314,7 +314,7 @@ button{
 .newsletter-subscribe-box{
     padding: 2rem;
     max-width: 420px;
-    margin: 2rem auto 3rem;
+    margin: 1rem auto 3rem;
     background: #333;
     color: white;
     border-radius: 4px;
@@ -326,13 +326,14 @@ button{
     input{
         background: rgba(255,255,255,0.9);
         color: #333;
-        border: 1px solid $brand-color;
+        border: 1px solid #444;
         border-radius: 4px;
         font-size: 16px;
         display: block;
         box-sizing: border-box;
         padding: .5rem;
         margin-bottom: 1rem;
+        width: 100%;
     }
     button{
         display: block;

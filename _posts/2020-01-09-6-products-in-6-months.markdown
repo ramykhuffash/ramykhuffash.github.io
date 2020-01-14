@@ -42,4 +42,4 @@ My hope is that in six months, I will have:
 
 Ideally, I'll also have the conviction to spend more time on at least one product. I'll be shipping the first product by the end of January 2020.
 
-If you want a behind-the-scenes view of my process, you should <a href="https://twitter.com/ramykhuffash" target="_blank">follow me on Twitter</a> or <a href="https://letterfuel.com/ramy-khuffash/" target="_blank">subscribe to my newsletter.</a>
+If you want a behind-the-scenes view of my process, you should <a href="https://twitter.com/ramykhuffash" target="_blank" rel="nofollow">follow me on Twitter</a> or subscribe to my newsletter below.
