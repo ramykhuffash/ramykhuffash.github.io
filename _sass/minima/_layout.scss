@@ -299,3 +299,33 @@ a{
 	margin-left: -10px;
 	margin-top: -10px;
 }
+
+button{
+    border: none;
+    background: $brand-color;
+    color: white;
+    border-radius: 4px;
+}
+
+
+.newsletter-subscribe-box{
+    padding: 2rem;
+    max-width: 720px;
+    margin: 2rem auto 3rem;
+    background: #333;
+    color: white;
+    button{
+        display: block;
+        margin-top: .5rem;
+    }
+    label{
+        color: white;
+    }
+    input{
+        background: rgba(255,255,255,0.9);
+        color: #333;
+        border: 1px solid $brand-color;
+        border-radius: 4px;
+        font-size: 16px;
+    }
+}
