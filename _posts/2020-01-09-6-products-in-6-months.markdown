@@ -44,6 +44,5 @@ Ideally, I'll also have the conviction to spend more time on at least one produc
 
 If you want a behind-the-scenes view of my process, you should <a href="https://twitter.com/ramykhuffash" target="_blank" rel="nofollow">follow me on Twitter</a> or subscribe to my newsletter below.
 
-<hr />
- - <a href="https://rocketgems.com/2020/01/09/6-products-in-6-months.html">Product one: Subcaster: Compare podcasting tools side-by-side</a>
- <hr />
+<hr style="margin-top: 2rem; margin-bottom: 2rem; border-bottom: none; border-left: none; border-right: none; border-top: 1px solid #eee;" />
+ - <a href="https://rocketgems.com/2020/01/09/product-one-subcaster.html">Product one: Subcaster: Compare podcasting tools side-by-side</a>
