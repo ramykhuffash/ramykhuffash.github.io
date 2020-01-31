@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Product 1/6 - Subcaster: Compare podcast tools side-by-side"
-date:   2020-01-09 10:05:13 +0100
+date:   2020-01-31 10:05:13 +0100
 ---
 
 *This is the first update from my "<a href="https://rocketgems.com/2020/01/09/6-products-in-6-months.html">launch 6 products in 6 months</a>" challenge*
