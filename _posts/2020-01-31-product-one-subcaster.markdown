@@ -13,7 +13,7 @@ The product I just launched is called <a href="https://subcaster.com/" target="_
 ### Why I decided to build <a href="https://subcaster.com/" target="_blank">Subcaster</a>
 I've been a podcast addict for years and I've even attempted to start podcasts before. As they're such a big part of my life, I've been wanting to create something podcasting related for a while. I actually bought the subcaster.com domain name a while ago for a different podcast-related product I didn't end up building.
 
-In terms of what type of podcasting related product to build, I went with Subcaster because there were signs that people would find something like this useful. There are a healthy amount of searches for keywords based around finding and comparing podcasting tools. Questions about picking hosting companies are also frequent on the Podcasters Subreddit.
+In terms of what type of podcasting related product to build, I went with Subcaster because there were signs that people would find something like this useful. There are a healthy amount of searches for keywords based around finding & comparing podcasting tools. Questions about picking hosting companies are also frequent on the <a href="https://www.reddit.com/r/podcasting/" target="_blank" rel="nofollow noreferrer">Podcasting Subreddit</a>.
 
 I've also been digging the "research as a service" idea. Essentially
 
@@ -22,15 +22,15 @@ I've also been digging the "research as a service" idea. Essentially
  - Put that research in one place
  - Eventually, figure out a way for the site to generate some income
 
-In terms of business model, essentially anything could work. Some charge for access to the research (essentially what I do with Page Flows), while others sell ads. Key Values, which helps developers find companies that match their values, makes money by charging the companies they research.
+In terms of business model, essentially anything could work. Some charge for access to the research (essentially what I do with Page Flows), while others sell ads. <a href="https://keyvalues.com/" target="_blank" rel="nofollow noreferrer">Key Values</a>, which helps developers find companies that match their values, makes money by charging the companies they research.
 
 #### Example of "research as a service" websites
 
- - <a href="https://indiehackers.com/" target="_blank" rel="nofollow noreferrer">Indie Hackers</a>
- - <a href="https://nomadlist.com/" target="_blank" rel="nofollow noreferrer">Nomadlist</a>
- - <a href="https://keyvalues.com/" target="_blank" rel="nofollow noreferrer">KeyValues</a>
- - <a href="https://pageflows.com/" target="_blank" rel="nofollow noreferrer">Page Flows</a>
- - <a href="https://examine.com/" target="_blank" rel="nofollow noreferrer">Examine.com</a>
+ - <a href="https://indiehackers.com/" target="_blank" rel="nofollow noreferrer">Indie Hackers</a> - Started out as interviews with indie founders (including their revenue numbers)
+ - <a href="https://nomadlist.com/" target="_blank" rel="nofollow noreferrer">Nomadlist</a> - Research and data about popular cities for digital nomad types
+ - <a href="https://keyvalues.com/" target="_blank" rel="nofollow noreferrer">Key Values</a> - Researches companies who are hiring engineers
+ - <a href="https://pageflows.com/" target="_blank" rel="nofollow noreferrer">Page Flows</a> - User flow recordings of popular products (for product designers & managers)
+ - <a href="https://examine.com/" target="_blank" rel="nofollow noreferrer">Examine.com</a> - Supplement and nutrition research
 
 With Subcaster, the obvious businesses model would be affiliate sales, but I'm not going to worry about monetization until I'm confident the site gets enough traffic.
 
