@@ -44,7 +44,7 @@ Once the site was set up, I spent the majority of the time collecting the data. 
 I initially planned on adding more categories and building more features (like sorting), but ran out of time.
 
 ### Future plans
-The idea with this <a href="https://rocketgems.com/2020/01/09/6-products-in-6-months.html"6 products in 6 months</a> challenge was to get 6 ideas build and launched, then circle back to any that seemed to resonate, so I have no idea where Subcaster will end up or if I'll continue to work on it at all. If it gets any traction, some of the things I'll probably work on are sorting, filtering, and more categories.
+The idea with this <a href="https://rocketgems.com/2020/01/09/6-products-in-6-months.html">6 products in 6 months</a> challenge was to get 6 ideas build and launched, then circle back to any that seemed to resonate, so I have no idea where Subcaster will end up or if I'll continue to work on it at all. If it gets any traction, some of the things I'll probably work on are sorting, filtering, and more categories.
 
 For the more immediate future, it's time to start working on product number two.
 
